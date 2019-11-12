@@ -1,14 +1,15 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Footer from "./components/Footer"
+import Navbar from "./components/Navbar";
+import MainContent from "./components/MainContent";
+import Footer from "./components/Footer";
 
 function App() {
   return (
     <div className="App">
-      <nav>
-        <h1></h1>
-      </nav>
+      <Navbar />
+      <MainContent />
       <Footer />
     </div>
   );

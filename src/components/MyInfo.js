@@ -1,7 +1,7 @@
-import React from "react"
+import React from "react";
 
 function MyInfo() {
-    return(
+    return (
         <body>
             <h1>My name is: Teddy Hidalgo</h1>
             <h2>A little about myself:</h2>
