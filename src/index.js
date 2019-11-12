@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import HW from './HW';
 import UL from './UL';
+import MyInfo from './MyInfo';
 import * as serviceWorker from './serviceWorker';
 
 // ReactDOM.render(What do you want to render, where do you want to render it)
@@ -13,7 +14,10 @@ import * as serviceWorker from './serviceWorker';
 // ReactDOM.render(<HW />, document.getElementById('root'));
 
 // Unordered List
-ReactDOM.render(<UL />, document.getElementById('root'));
+// ReactDOM.render(<UL />, document.getElementById('root'));
+
+// MyInfo Blurb
+ReactDOM.render(<MyInfo />, document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
