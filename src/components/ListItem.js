@@ -2,7 +2,9 @@ import React from 'react';
 
 function ListItem() {
     return(
-        <li></li>
+        <div>
+        <p className='ListItem'>So Placeholder, much here, wow.</p>
+        </div>
     );
 }
 
