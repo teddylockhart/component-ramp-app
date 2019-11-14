@@ -14,10 +14,10 @@ import * as serviceWorker from './serviceWorker';
 // ReactDOM.render(<App />, document.getElementById('root'));
 
 // To Do List
-ReactDOM.render(<ToDo />, document.getElementById('root'));
+// ReactDOM.render(<ToDo />, document.getElementById('root'));
 
 // Hello World
-// ReactDOM.render(<HW />, document.getElementById('root'));
+ReactDOM.render(<HW />, document.getElementById('root'));
 
 // Unordered List
 // ReactDOM.render(<UL />, document.getElementById('root'));
