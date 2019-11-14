@@ -11,13 +11,13 @@ import MyInfo from './components/MyInfo';
 import * as serviceWorker from './serviceWorker';
 
 // ReactDOM.render(What do you want to render, where do you want to render it)
-// ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
 
 // To Do List
 // ReactDOM.render(<ToDo />, document.getElementById('root'));
 
 // Hello World
-ReactDOM.render(<HW />, document.getElementById('root'));
+// ReactDOM.render(<HW />, document.getElementById('root'));
 
 // Unordered List
 // ReactDOM.render(<UL />, document.getElementById('root'));

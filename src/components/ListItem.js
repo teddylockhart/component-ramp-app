@@ -3,7 +3,7 @@ import React from 'react';
 function ListItem() {
     return(
         <div>
-        <p className='ListItem'>So Placeholder, much here, wow.</p>
+            <p className='ListItem'>So Placeholder, much here, wow.</p>
         </div>
     );
 }
