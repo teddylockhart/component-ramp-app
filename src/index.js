@@ -8,10 +8,14 @@ import ToDo from './ToDo';
 import HW from './components/HW';
 import UL from './components/UL';
 import MyInfo from './components/MyInfo';
+import JokeMachine from './JokeMachine';
 import * as serviceWorker from './serviceWorker';
 
 // ReactDOM.render(What do you want to render, where do you want to render it)
-ReactDOM.render(<App />, document.getElementById('root'));
+// ReactDOM.render(<App />, document.getElementById('root'));
+
+// Joke Machine
+ReactDOM.render(<JokeMachine />, document.getElementById('root'));
 
 // To Do List
 // ReactDOM.render(<ToDo />, document.getElementById('root'));
